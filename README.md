@@ -6,8 +6,8 @@
   
 ## lj_get_data.py  
 用于爬取房价数据，并保存至/tmp/tmp_house.txt  
-![district](https://github.com/jacenr/lj_crawl/tree/master/Screenshots/district.png) 
-![plate](https://github.com/jacenr/lj_crawl/tree/master/Screenshots/plate.png) 
+![district](https://github.com/jacenr/lj_crawl/blob/master/Screenshots/district.png) 
+![plate](https://github.com/jacenr/lj_crawl/blob/master/Screenshots/plate.png) 
   
 ## house_price_sample_20171226.txt  
 为爬取的样例数据。  
