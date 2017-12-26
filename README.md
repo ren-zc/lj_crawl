@@ -26,5 +26,5 @@ sh4817861,550,63569
 * 在mysql中创建db: lianjia  
 * 修改py文件中mysql_conn变量的连接信息  
 * 修改py文件中lj_ershou_url变量的url为你想爬取城市的二手房url  
-* 运行lj_get_plate.py初始化lianjia db  
+* 运行lj_get_plate.py初始化lianjia数据库  
 * 执行lj_get_data.py爬取链家房价  
